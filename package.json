@@ -1,0 +1,11 @@
+{
+  "name": "meeting",
+  "version": "1.0.0",
+  "description": "A project that helps the WebRTC beginners to learn its API",
+  "scripts": {},
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "zxf4399",
+  "license": "MIT"
+}
